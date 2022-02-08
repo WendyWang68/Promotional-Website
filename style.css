@@ -1,0 +1,79 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: #B14908;
+  font-size:70px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin: 30px;
+}
+
+p {
+  font-family: "lucida handwriting", cursive;
+  font-size: 20px;
+  text-align: center;
+}
+
+.part1 {
+  font-family: "lucida console", monospace;
+  display: block;
+  background-color: #A670B4;
+  width: 100%;
+  height: 100px;
+  color: white;
+  text-align: center;
+  margin: 0px;
+}
+
+.part {
+  font-family: "garamond", serif;
+  display: block;
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: black;
+}
+
+.picture1 {
+  width: 450px;
+  height: 750px;
+  display: block;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.picture2 {
+  width: 750px;
+  height: 450px;
+  display: block;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.picture3 {
+  width: 600px;
+  height: 450px;
+  display: block;
+  margin: 20px;
+  border: solid white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.picture4 {
+  width: 350px;
+  height: 400px;
+  display: block;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
